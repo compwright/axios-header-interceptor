@@ -1,0 +1,45 @@
+{
+  "name": "axios-header-interceptor",
+  "version": "1.0.0",
+  "description": "A tiny axios interceptor for adding request headers",
+  "repository": "https://github.com/compwright/axios-header-interceptor",
+  "bugs": "https://github.com/compwright/axios-header-interceptor/issues",
+  "keywords": [
+    "axios",
+    "api",
+    "rest",
+    "interceptor",
+    "oauth"
+  ],
+  "author": "Jonathon Hill <jhill9693@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">= 14"
+  },
+  "exports": {
+    ".": {
+      "import": "./dist/index.mjs",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "files": [
+    "dist"
+  ],
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "peerDependencies": {
+    "axios": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "latest",
+    "standard": "latest",
+    "standard-version": "latest",
+    "unbuild": "latest"
+  }
+}
