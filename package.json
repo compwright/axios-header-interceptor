@@ -1,6 +1,6 @@
 {
   "name": "axios-header-interceptor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny axios interceptor for adding request headers",
   "repository": "https://github.com/compwright/axios-header-interceptor",
   "bugs": "https://github.com/compwright/axios-header-interceptor/issues",
