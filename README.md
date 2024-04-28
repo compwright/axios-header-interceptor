@@ -1,6 +1,5 @@
 # axios-header-interceptor
 
-[![Build Status](https://travis-ci.org/compwright/axios-header-interceptor.png?branch=master)](https://travis-ci.org/compwright/axios-header-interceptor)
 [![Download Status](https://img.shields.io/npm/dm/axios-header-interceptor.svg?style=flat-square)](https://www.npmjs.com/package/axios-header-interceptor)
 [![Sponsor on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&link=https://github.com/sponsors/compwright)](https://github.com/sponsors/compwright)
 
