@@ -33,13 +33,11 @@
       "jest"
     ]
   },
-  "peerDependencies": {
-    "axios": "^1.0.0"
-  },
   "devDependencies": {
     "jest": "latest",
     "standard": "latest",
     "standard-version": "latest",
+    "typescript": "latest",
     "unbuild": "latest"
   }
 }
